@@ -40,5 +40,24 @@ de ficar utilizando o browser.
 
 ## Imagens da aplicação
 ## -> WEB
+### Login
+![](/preview/Login.png)
+
+### Cadastro
+![](/preview/Cadastro.png)
+
+### Lista de Casos
+![](/preview/Casos.png)
+
+### Adicionar novo Caso
+![](/preview/CriarCaso.png)
 
 ## -> Mobile
+### Loading
+<img src="/preview/Mobile/Loading.jpg" alt="Loading" width="360" height="640">
+
+### Lista de Casos
+<img src="/preview/Mobile/Casos.jpg" alt="Lista de Casos" width="360" height="640">
+
+### Detalhes do Caso
+<img src="/preview/Mobile/DetalhesCaso.jpg" alt="Detalhes do Caso" width="360" height="640">
